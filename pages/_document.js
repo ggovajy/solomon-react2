@@ -17,6 +17,7 @@ class CustomDocument extends Document {
             <Html lang={blogConfig.defaultLanguage}>
                 <Head />
                 <body>
+                    <div>asdasd</div>
                 <Main />
                 <NextScript />
                 </body>
